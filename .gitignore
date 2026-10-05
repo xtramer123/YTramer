@@ -1,0 +1,10 @@
+# Artefactos de compilacion (se generan con: python build.py)
+programa/
+.build/
+
+# Binarios externos que descarga build.py automaticamente
+bin/
+
+# Python
+__pycache__/
+*.pyc
